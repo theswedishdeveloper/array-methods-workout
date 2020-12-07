@@ -1,4 +1,4 @@
-// push
+// push & pop
 //
 // metoden tar emot ett argument och lägger till det i en array
 

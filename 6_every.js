@@ -1,4 +1,4 @@
-// includes
+// every
 //
 // metoden söker igenom en array med en funktion som argument
 // den retunerar TRUE om alla element uppfyller funktionens villkor!
